@@ -9,14 +9,12 @@ package demotep;
  *
  * @author Administrator
  */
-public class DemoTEP {
-
+public class launcher {
     /**
-     * @param args the command line arguments
+     * 
+     * @param args argument command lines
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        
+        System.out.println("Hello world");
     }
-    
 }
